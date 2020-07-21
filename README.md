@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ArpitFalcon.visitor-badge)](https://github.com/ArpitFalcon)
--->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ArpitFalcon&show_icons=true)
+
+-->
+
